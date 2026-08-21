@@ -64,7 +64,7 @@ export const KKN_INFO = {
   name: "KKN Kelompok 229 UPN 'Veteran' Yogyakarta",
   unitCode: "AD.84.229",
   tagline: "Mengabdi dengan Hati, Membangun Kendalsari",
-  subheading: "Dokumentasi resmi laporan & pengabdian KKN Kelompok 229 UPN 'Veteran' Yogyakarta di Padukuhan Kendalsari III, Desa Kendalsari, Kec. Kemalang, Kab. Klaten.",
+  subheading: "Dokumentasi resmi laporan & pengabdian KKN Kelompok 229 UPN 'Veteran' Yogyakarta di Dusun III Kendalsari, Desa Kendalsari, Kec. Kemalang, Kab. Klaten.",
   period: "1 Juli – 30 Juli 2026",
   dpl: {
     name: "Ir. Aditya Pandu Wicaksono, S.Si., M.Sc.",
@@ -81,7 +81,7 @@ export const KKN_INFO = {
     role: "Kapus KKN dan TTG"
   },
   location: {
-    padukuhan: "Padukuhan Kendalsari III (Kadus 3)",
+    padukuhan: "Dusun III Kendalsari",
     desa: "Desa Kendalsari",
     kecamatan: "Kecamatan Kemalang",
     kabupaten: "Kabupaten Klaten",
@@ -232,7 +232,7 @@ export const PROKER_LIST: ProkerItem[] = [
     category: "Utama Kelompok",
     shortDesc: "Pemeriksaan kesehatan dasar (tensi, gula darah) serta konsultasi dan edukasi pola hidup sehat kolaborasi bersama Posyandu & nakes.",
     background: [
-      "Menjaga kesehatan tidak selalu harus dimulai dari hal yang besar. Salah satunya bisa dengan rutin melakukan pemeriksaan kesehatan dan mulai lebih peduli dengan kondisi tubuh sendiri. Hal inilah yang menjadi salah satu tujuan mahasiswa KKN AD.84.229 UPN “Veteran” Yogyakarta melalui program kerja Kesehatan Masyarakat di Padukuhan Kendalsari III, Kecamatan Kemalang, Kabupaten Klaten.",
+      "Menjaga kesehatan tidak selalu harus dimulai dari hal yang besar. Salah satunya bisa dengan rutin melakukan pemeriksaan kesehatan dan mulai lebih peduli dengan kondisi tubuh sendiri. Hal inilah yang menjadi salah satu tujuan mahasiswa KKN AD.84.229 UPN “Veteran” Yogyakarta melalui program kerja Kesehatan Masyarakat di Dusun III Kendalsari, Kecamatan Kemalang, Kabupaten Klaten.",
       "Melalui pemeriksaan sederhana seperti tekanan darah dan kadar gula darah, warga diharapkan bisa lebih mengetahui kondisi kesehatan mereka. Pemeriksaan ini juga menjadi salah satu langkah awal untuk mengenali faktor risiko penyakit seperti hipertensi dan diabetes.",
       "Selain pemeriksaan kesehatan, mahasiswa juga memberikan edukasi mengenai pentingnya menjaga pola hidup sehat dan melakukan pemeriksaan secara rutin. Edukasi ini diharapkan dapat membuat masyarakat semakin sadar bahwa menjaga kesehatan bukan hanya dilakukan ketika sedang sakit, tetapi juga perlu dilakukan sebagai kebiasaan sehari-hari."
     ],
@@ -261,7 +261,7 @@ export const PROKER_LIST: ProkerItem[] = [
       "Mendeteksi secara dini faktor risiko penyakit tidak menular, seperti hipertensi dan diabetes melitus."
     ],
     output: "Melalui program Kesehatan Masyarakat ini, mahasiswa KKN AD.84.229 berharap kegiatan sederhana yang dilakukan dapat memberikan manfaat bagi warga Kendalsari III. Lebih dari sekadar pemeriksaan, kegiatan ini diharapkan dapat mendorong masyarakat untuk semakin peduli terhadap kesehatan dan membiasakan diri melakukan pemeriksaan secara berkala.",
-    targetBeneficiaries: "Masyarakat Padukuhan Kendalsari 3",
+    targetBeneficiaries: "Masyarakat Dusun Kendalsari III",
     driveLink: "https://drive.google.com/drive/folders/16sxEmXqmf42WxCkYmn_AE4rfVEWDtzD6?usp=sharing"
   },
   {
@@ -342,7 +342,7 @@ export const PROKER_LIST: ProkerItem[] = [
       "Mempererat hubungan dan kerja sama gotong royong antara mahasiswa KKN dengan masyarakat Desa Kendalsari."
     ],
     output: "Terciptanya Poskamling yang lebih bersih, rapi, dan nyaman digunakan oleh masyarakat di RT 14 dan RT 18, meningkatnya kepedulian pemeliharaan fasilitas umum, suasana lingkungan yang semarak untuk menyambut 17 Agustus, serta terjalinnya hubungan yang semakin erat antara mahasiswa dan warga desa.",
-    targetBeneficiaries: "Warga RT 14 dan RT 18 Padukuhan Kendalsari III",
+    targetBeneficiaries: "Warga RT 14 dan RT 18 Dusun Kendalsari III",
     driveLink: "https://drive.google.com/drive/folders/1lVdAQf2bV7Q-K6QP_Us84hoRqiFTOZ1a"
   },
 
@@ -518,7 +518,7 @@ export const PROKER_LIST: ProkerItem[] = [
     background: [
       "Literasi keuangan merupakan salah satu pengetahuan dasar yang penting untuk dikenalkan kepada anak sejak dini. Anak-anak perlu mulai memahami bagaimana cara menggunakan uang dengan baik, salah satunya melalui kebiasaan menabung.",
       "Selain itu, pemahaman mengenai perbedaan antara kebutuhan dan keinginan juga penting agar anak dapat belajar menentukan mana yang lebih perlu didahulukan ketika menggunakan uang yang dimiliki.",
-      "Berdasarkan hal tersebut, mahasiswa KKN melaksanakan program Literasi Keuangan yang ditujukan kepada anak-anak sekolah dasar di Padukuhan Kendalsari III. Kegiatan ini berfokus pada pengenalan kebiasaan menabung dan cara sederhana dalam mengatur uang saku."
+      "Berdasarkan hal tersebut, mahasiswa KKN melaksanakan program Literasi Keuangan yang ditujukan kepada anak-anak sekolah dasar di Dusun III Kendalsari. Kegiatan ini berfokus pada pengenalan kebiasaan menabung dan cara sederhana dalam mengatur uang saku."
     ],
     implementation: [
       "Dalam pelaksanaannya, kegiatan dibuat dengan suasana yang santai agar anak-anak tidak merasa seperti sedang mengikuti pembelajaran di kelas. Sebelum masuk ke materi, mahasiswa mengajak anak-anak melakukan ice breaking terlebih dahulu. Setelah itu, materi disampaikan menggunakan gambar, contoh sederhana, tanya jawab, dan permainan edukatif.",
@@ -546,7 +546,7 @@ export const PROKER_LIST: ProkerItem[] = [
       "Meningkatkan kreativitas dan kepedulian lingkungan melalui daur ulang botol bekas menjadi celengan hias edukatif.",
       "Menumbuhkan sikap disiplin, hemat, dan bertanggung jawab sejak usia dini."
     ],
-    output: "Anak-anak di Padukuhan Kendalsari III mulai menerapkan kebiasaan menabung dalam kehidupan sehari-hari, lebih bijak dalam menggunakan uang saku, serta memiliki pemahaman yang baik mengenai pengelolaan keuangan keluarga sejak dini.",
+    output: "Anak-anak di Dusun III Kendalsari mulai menerapkan kebiasaan menabung dalam kehidupan sehari-hari, lebih bijak dalam menggunakan uang saku, serta memiliki pemahaman yang baik mengenai pengelolaan keuangan keluarga sejak dini.",
     targetBeneficiaries: "Siswa SDN 1 Kendalsari",
     driveLink: "https://drive.google.com/drive/folders/11znRvt5SgEMKk5fGoSxPvNzFC0Tp4qAq?usp=sharing"
   },
@@ -664,10 +664,10 @@ export const PROKER_LIST: ProkerItem[] = [
     objectives: [
       "Menyusun peta zonasi rawan bencana tanah longsor di Kendalsari sebagai media edukasi kebencanaan.",
       "Memberikan informasi spasial akurat bagi pemerintah desa sebagai acuan kesiapsiagaan dan mitigasi bencana.",
-      "Menyediakan data pendukung perencanaan jalur evakuasi aman bagi warga padukuhan."
+      "Menyediakan data pendukung perencanaan jalur evakuasi aman bagi warga Dusun III Kendalsari."
     ],
     output: "Tersusun dan terpasangnya peta cetak rawan bencana longsor di poskamling RT 14 sampai RT 23 yang meningkatkan kewaspadaan, kesiapsiagaan, dan mitigasi bencana mandiri bagi masyarakat.",
-    targetBeneficiaries: "Masyarakat dan Perangkat Padukuhan Kendalsari 3",
+    targetBeneficiaries: "Masyarakat dan Perangkat Dusun III Kendalsari",
     driveLink: "https://drive.google.com/drive/folders/1zwfclrgXzMJrH0LONi32lY2RF7pURBPU?usp=drive_link"
   },
   {
@@ -746,7 +746,7 @@ export const PROKER_LIST: ProkerItem[] = [
       "Mengedukasi teknik pemilihan kemasan food grade dan pelabelan produk yang menarik untuk pemasaran UMKM desa."
     ],
     output: "Ibu-ibu PKK RT 21 mampu mempraktikkan pembuatan selai pisang bernilai jual, memahami standar pengemasan pangan food grade, serta terbukanya peluang rintisan usaha pangan lokal mandiri.",
-    targetBeneficiaries: "Ibu-ibu PKK RT 21 Padukuhan Kendalsari III",
+    targetBeneficiaries: "Ibu-ibu PKK RT 21 Dusun III Kendalsari",
     driveLink: "https://drive.google.com/drive/folders/1uDSfCmtgEz7niSxDnEg0uobv1_AkGlPp?usp=drive_link"
   },
 
@@ -832,8 +832,8 @@ export const PROKER_LIST: ProkerItem[] = [
       "Meningkatkan kesadaran lansia mengenai pentingnya olahraga ringan dalam menjaga kualitas hidup dan mencegah penyakit degeneratif.",
       "Membangun interaksi sosial dan suasana gembira antarlansia."
     ],
-    output: "Terlaksananya kegiatan senam kebugaran lansia secara rutin yang berkesinambungan dengan Posyandu, meningkatnya kebugaran jasmani dan semangat hidup para lansia di Padukuhan Kendalsari III.",
-    targetBeneficiaries: "Lansia dan Ibu-ibu Posyandu Padukuhan Kendalsari III",
+    output: "Terlaksananya kegiatan senam kebugaran lansia secara rutin yang berkesinambungan dengan Posyandu, meningkatnya kebugaran jasmani dan semangat hidup para lansia di Dusun III Kendalsari.",
+    targetBeneficiaries: "Lansia dan Ibu-ibu Posyandu Dusun III Kendalsari",
     driveLink: "https://drive.google.com/file/d/1FfmgOXNd70bkCz2wCwgdrs-S72l_71qk/view?usp=sharing"
   },
   {
@@ -872,7 +872,7 @@ export const PROKER_LIST: ProkerItem[] = [
       "Menyediakan sarana marketing tools desa dalam menarik perhatian wisatawan, mitra pembangunan, maupun instansi terkait.",
       "Menciptakan aset dokumentasi visual digital jangka panjang bagi pemerintah desa."
     ],
-    output: "Dihasilkannya satu berkas video profil sinematik Desa Kendalsari berdurasi proporsional yang memvisualisasikan keunggulan agrowisata, tradisi gotong royong warga, dan potensi pembangunan padukuhan.",
+    output: "Dihasilkannya satu berkas video profil sinematik Desa Kendalsari berdurasi proporsional yang memvisualisasikan keunggulan agrowisata, tradisi gotong royong warga, dan potensi pembangunan Dusun III Kendalsari.",
     targetBeneficiaries: "Pemerintah Desa Kendalsari dan masyarakat umum",
     driveLink: "https://drive.google.com/drive/folders/1-30HHTFTBc3cBfY-9jRwmIJRySECUl9J?usp=sharing"
   },
@@ -915,7 +915,7 @@ export const PROKER_LIST: ProkerItem[] = [
       "Membangun hubungan akrab, saling percaya, dan kepedulian antara mahasiswa KKN dan anak-anak warga sekitar.",
       "Menyediakan fasilitas ruang belajar alternatif yang aman, nyaman, dan mudah diakses anak-anak desa."
     ],
-    output: "Meningkatnya pemahaman akademis siswa sekolah dasar, tumbuhnya semangat belajar anak-anak di luar jam sekolah, serta terwujudnya wadah belajar komunitas yang ramah anak di Padukuhan Kendalsari III.",
+    output: "Meningkatnya pemahaman akademis siswa sekolah dasar, tumbuhnya semangat belajar anak-anak di luar jam sekolah, serta terwujudnya wadah belajar komunitas yang ramah anak di Dusun III Kendalsari.",
     targetBeneficiaries: "Anak-anak Dusun III Kendalsari",
     driveLink: "https://drive.google.com/drive/folders/1IjfgQF4YGhPnaYyYJU68PEcKZ8Gt_8M7?usp=drive_link"
   },
@@ -926,11 +926,11 @@ export const PROKER_LIST: ProkerItem[] = [
     category: "Pendukung",
     shortDesc: "Pendampingan belajar membaca Al-Qur'an secara bergilir di 10 mushola disertai aksi berbagi penyerahan Al-Qur'an bagi santri TPA.",
     background: [
-      "Padukuhan Kendalsari III memiliki banyak Taman Pendidikan Al-Qur'an (TPA) yang menjadi wadah bagi anak-anak untuk belajar mengaji, namun kegiatan belajar mengaji seringkali dirasa kurang menarik apabila dilakukan dengan metode yang monoton. Selain itu, ketersediaan Al-Qur'an di beberapa mushola masih perlu didukung agar kegiatan keagamaan dapat berjalan secara berkelanjutan.",
+      "Dusun III Kendalsari memiliki banyak Taman Pendidikan Al-Qur'an (TPA) yang menjadi wadah bagi anak-anak untuk belajar mengaji, namun kegiatan belajar mengaji seringkali dirasa kurang menarik apabila dilakukan dengan metode yang monoton. Selain itu, ketersediaan Al-Qur'an di beberapa mushola masih perlu didukung agar kegiatan keagamaan dapat berjalan secara berkelanjutan.",
       "Melihat kondisi tersebut, mahasiswa KKN menginisiasi program Mengaji Ceria sebagai upaya menghadirkan suasana belajar Al-Qur'an yang lebih interaktif dan menyenangkan bagi anak-anak, sekaligus memberikan dukungan sarana belajar bagi mushola setempat."
     ],
     implementation: [
-      "Kegiatan dilakukan dengan mengunjungi 10 TPA yang tersebar di Padukuhan Kendalsari III (RT 14 sampai RT 23). Di setiap lokasi, mahasiswa KKN mendampingi anak-anak belajar mengaji menggunakan metode interaktif agar proses belajar terasa lebih hidup dan tidak membosankan.",
+      "Kegiatan dilakukan dengan mengunjungi 10 TPA yang tersebar di Dusun III Kendalsari (RT 14 sampai RT 23). Di setiap lokasi, mahasiswa KKN mendampingi anak-anak belajar mengaji menggunakan metode interaktif agar proses belajar terasa lebih hidup dan tidak membosankan.",
       "Sebagai bentuk dukungan terhadap keberlangsungan kegiatan keagamaan, mahasiswa KKN turut menyerahkan mushaf Al-Qur'an kepada setiap mushola yang menjadi lokasi kegiatan.",
       "Melalui program ini, anak-anak memperoleh pengalaman belajar mengaji yang lebih menyenangkan sehingga diharapkan dapat menumbuhkan semangat mereka untuk terus belajar Al-Qur'an. Penyerahan Al-Qur'an juga memberikan manfaat langsung bagi mushola berupa tersedianya sarana belajar yang dapat digunakan secara berkelanjutan, tidak hanya oleh anak-anak yang mengikuti kegiatan, tetapi juga oleh jamaah dan generasi berikutnya."
     ],
@@ -951,7 +951,7 @@ export const PROKER_LIST: ProkerItem[] = [
       "Menghadirkan suasana belajar Al-Qur'an yang interaktif dan menyenangkan bagi santri anak-anak di 10 mushola.",
       "Memberikan bimbingan tajwid dan makharijul huruf yang efektif dan ceria.",
       "Menyerahkan mushaf Al-Qur'an untuk mendukung sarana belajar mengaji berkelanjutan di setiap mushola.",
-      "Mempererat silaturahmi keagamaan antara mahasiswa, pengurus mushola, dan warga padukuhan."
+      "Mempererat silaturahmi keagamaan antara mahasiswa, pengurus mushola, dan warga Dusun III Kendalsari."
     ],
     output: "Terlaksananya bimbingan mengaji ceria di 10 mushola RT 14 s/d 23, penyerahan mushaf Al-Qur'an sebagai sarana wakaf ibadah jangka panjang, serta meningkatnya kecintaan anak-anak dalam belajar membaca Al-Qur'an.",
     targetBeneficiaries: "Anak-anak di TPA Kadus 3 Kendalsari",
@@ -968,7 +968,7 @@ export const TIMELINE_ITEMS: TimelineItem[] = [
     date: "01 Juli 2026",
     day: "Rabu",
     title: "Penerjunan Resmi KKN Angkatan 84",
-    desc: "Upacara penerjunan resmi mahasiswa KKN UPN 'Veteran' Yogyakarta Angkatan 84 Kelompok 229 di Balai Desa Kendalsari dan koordinasi awal bersama Kepala Padukuhan Kendalsari III.",
+    desc: "Upacara penerjunan resmi mahasiswa KKN UPN 'Veteran' Yogyakarta Angkatan 84 Kelompok 229 di Balai Desa Kendalsari dan koordinasi awal bersama Kepala Dusun III Kendalsari.",
     category: "Penerjunan",
     location: "Balai Desa Kendalsari",
     status: "Selesai"
@@ -978,7 +978,7 @@ export const TIMELINE_ITEMS: TimelineItem[] = [
     date: "06 & 10 Juli 2026",
     day: "Senin & Jumat",
     title: "Pelaksanaan Proker Utama: Kesehatan Masyarakat",
-    desc: "Pelayanan pemeriksaan kesehatan dasar (tekanan darah/tensi dan kadar gula darah) serta konsultasi dan edukasi pola hidup sehat kolaborasi bersama Posyandu.",
+    desc: "Pelayanan pemeriksaan kesehatan dasar (tekanan darah/tensi dan kadar gula darah) serta melaksanakan posyandu balita, ibu balita, dan lansia.",
     category: "Proker Utama",
     location: "Posyandu RT 14 & Posyandu RT 20",
     status: "Selesai"
@@ -988,7 +988,7 @@ export const TIMELINE_ITEMS: TimelineItem[] = [
     date: "12 & 15 Juli 2026",
     day: "Minggu & Rabu",
     title: "Pelaksanaan Proker Utama: Renovasi Pos Kamling",
-    desc: "Perbaikan fasilitas fisik pos ronda siskamling bersama warga melalui pengecatan, pembersihan, penataan dekorasi 17 Agustus, serta pemasangan bingkai kenang-kenangan.",
+    desc: "Perbaikan fasilitas fisik pos kamling bersama warga melalui pengecatan, pembersihan, penataan dekorasi 17 Agustus, serta pemasangan bingkai kenang-kenangan.",
     category: "Proker Utama",
     location: "Poskamling RT 14 & Poskamling RT 18",
     status: "Selesai"
@@ -998,7 +998,7 @@ export const TIMELINE_ITEMS: TimelineItem[] = [
     date: "26 Juli 2026",
     day: "Minggu",
     title: "Pelaksanaan Proker Utama: Festival Hari Anak",
-    desc: "Peringatan Hari Anak Nasional yang dimeriahkan dengan jalan santai, senam bersama, aneka perlombaan games edukatif interaktif, dan pembagian doorprize ceria.",
+    desc: "Peringatan Hari Anak Nasional yang dimeriahkan dengan senam bersama, aneka perlombaan games, dan pembagian kupon doorprize dan hadiah pemenang lomba.",
     category: "Proker Utama",
     location: "Lapangan samping SDN 1 Kendalsari",
     status: "Selesai"
@@ -1008,9 +1008,9 @@ export const TIMELINE_ITEMS: TimelineItem[] = [
     date: "30 Juli 2026",
     day: "Kamis",
     title: "Penarikan Resmi Mahasiswa KKN AD.84.229",
-    desc: "Penutupan masa pengabdian dan penarikan resmi mahasiswa KKN Kelompok 229 oleh DPL (Ir. Aditya Pandu Wicaksono, S.Si., M.Sc.) serta pamitan kepada seluruh jajaran perangkat desa dan masyarakat Kendalsari III.",
+    desc: "Penutupan masa pengabdian dan penarikan resmi mahasiswa KKN Kelompok 229 oleh DPL (Ir. Aditya Pandu Wicaksono, S.Si., M.Sc.) serta pamitan kepada seluruh jajaran perangkat desa dan masyarakat Dusun III Kendalsari.",
     category: "Penarikan",
-    location: "Kantor Kelurahan / Balai Desa Kendalsari",
+    location: "Kantor Kecamatan Kemalang",
     status: "Selesai"
   }
 ];
