@@ -20,7 +20,7 @@ export default function TeamSection() {
 
           <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
             10 Mahasiswa lintas jurusan UPN &apos;Veteran&apos; Yogyakarta yang bersatu
-            dalam karya, dedikasi, dan kebersamaan di Padukuhan Kendalsari III.
+            dalam karya, dedikasi, dan kebersamaan di Dusun III Kendalsari.
           </p>
         </div>
 

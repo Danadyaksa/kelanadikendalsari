@@ -159,8 +159,8 @@ export const TEAM_MEMBERS: TeamMember[] = [
     nim: "121220130",
     major: "Teknik Kimia",
     faculty: "Fakultas Teknik Industri",
-    role: "Bendahara",
-    divisi: "Bendahara",
+    role: "Sekretaris",
+    divisi: "Sekretaris",
     avatar: "/profil/senja.jpg",
     instagram: "https://www.instagram.com/kelanadikendalsari"
   },

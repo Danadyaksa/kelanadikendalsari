@@ -38,17 +38,10 @@ export default function Footer() {
                   KKN Kelana di Kendalsari
                 </h3>
                 <p className="text-xs text-emerald-300 font-medium">
-                  Unit AD.84.229 • UPN &apos;Veteran&apos; Yogyakarta
+                  KKN.AD.84.229 • UPN &apos;Veteran&apos; Yogyakarta
                 </p>
               </div>
             </div>
-
-            <p className="text-xs text-stone-300/80 leading-relaxed max-w-sm">
-              Kelompok KKN 229 UPN &apos;Veteran&apos; Yogyakarta berfokus pada
-              pemberdayaan masyarakat berbasis kesehatan preventif, kelestarian
-              lingkungan, agroteknologi pupuk organik, serta digitalisasi UMKM di
-              lereng Merapi.
-            </p>
 
             {/* DPL Information Box */}
             <div className="p-3.5 rounded-2xl bg-[#0C2412]/80 border border-[#2B6833]/40 text-xs">
@@ -59,7 +52,7 @@ export default function Footer() {
                 {KKN_INFO.dpl.name}
               </p>
               <p className="text-[11px] text-stone-400">
-                Padukuhan Kendalsari III, Kemalang, Klaten
+                Dusun III Kendalsari, Kemalang, Klaten
               </p>
             </div>
           </div>
@@ -99,7 +92,7 @@ export default function Footer() {
                   href="#profil"
                   className="hover:text-[#E9C46A] transition-colors inline-block py-0.5"
                 >
-                  Profil Padukuhan
+                  Profil Desa
                 </a>
               </li>
               <li>
@@ -107,20 +100,17 @@ export default function Footer() {
                   href="#tim"
                   className="hover:text-[#E9C46A] transition-colors inline-block py-0.5"
                 >
-                  Anggota Pengabdi
+                  Anggota Tim
                 </a>
               </li>
             </ul>
           </div>
 
-          {/* Right Column: Social Media & Contacts */}
+          {/* Right Column: Social Media */}
           <div className="md:col-span-4 space-y-4">
             <h4 className="text-xs font-bold uppercase tracking-widest text-[#E9C46A]">
-              MEDIA SOSIAL & HUBUNGAN
+              MEDIA SOSIAL
             </h4>
-            <p className="text-xs text-stone-300/80">
-              Ikuti dokumentasi harian, reels kegiatan, dan kisah inspiratif kami:
-            </p>
 
             <div className="flex flex-col gap-2">
               <a
@@ -156,7 +146,7 @@ export default function Footer() {
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-400">
           <p className="text-center sm:text-left">
             &copy; 2026 KKN Kelompok 229 UPN &apos;Veteran&apos; Yogyakarta.
-            Padukuhan Kendalsari III, Kemalang, Klaten.
+            Dusun III Kendalsari, Kemalang, Klaten.
           </p>
 
           <button

@@ -36,7 +36,7 @@ export default function HeroSection() {
         {/* Subheading */}
         <p className="max-w-2xl mx-auto text-base sm:text-lg text-stone-600 leading-relaxed font-normal mb-8">
           Dokumentasi program kerja dan dedikasi nyata mahasiswa KKN Kelompok 229
-          UPN &apos;Veteran&apos; Yogyakarta di Padukuhan Kendalsari III, Kec. Kemalang,
+          UPN &apos;Veteran&apos; Yogyakarta di Dusun III Desa Kendalsari, Kec. Kemalang,
           Kab. Klaten.
         </p>
 

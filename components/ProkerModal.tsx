@@ -237,7 +237,7 @@ export default function ProkerModal({ proker, onClose }: ProkerModalProps) {
         {/* Modal Footer */}
         <div className="p-4 sm:px-8 sm:py-4 bg-stone-50 border-t border-stone-200/80 flex items-center justify-between">
           <span className="text-xs text-stone-500 font-medium">
-            KKN AD.84.229 • Padukuhan Kendalsari III
+            KKN AD.84.229 • Dusun III Kendalsari
           </span>
           <button
             onClick={onClose}

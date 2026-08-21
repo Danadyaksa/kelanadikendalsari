@@ -29,7 +29,7 @@ export default function ProfileDesaSection() {
           </h2>
 
           <p className="text-stone-600 text-sm sm:text-base leading-relaxed">
-            Sekilas tentang Padukuhan Kendalsari III, lanskap alam lereng Merapi,
+            Sekilas tentang Dusun III Kendalsari, lanskap alam lereng Merapi,
             dan dinamika masyarakat desa tempat kami mengabdi.
           </p>
         </div>
@@ -40,11 +40,11 @@ export default function ProfileDesaSection() {
           <div className="lg:col-span-6 space-y-6">
             <div className="bg-white rounded-3xl p-6 sm:p-8 border border-stone-200/80 shadow-xs">
               <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#163E1F] mb-4">
-                Profil Desa & Padukuhan Kendalsari III
+                Profil Desa & Dusun III Kendalsari
               </h3>
 
               <p className="text-stone-600 text-sm sm:text-base leading-relaxed mb-4">
-                Padukuhan Kendalsari III terletak di Desa Kendalsari, Kecamatan
+                Dusun III Kendalsari terletak di Desa Kendalsari, Kecamatan
                 Kemalang, Kabupaten Klaten, Jawa Tengah. Secara geografis berada di
                 kawasan perbukitan lereng tenggara Gunung Merapi yang berhawa sejuk
                 dan bertanah subur.
@@ -88,7 +88,7 @@ export default function ProfileDesaSection() {
                   <span className="text-[#2B6833] font-bold">—</span>
                   <span className="text-stone-500 w-28 shrink-0">Tema KKN:</span>
                   <span className="text-[#163E1F] font-bold uppercase tracking-tight">
-                    Pemberdayaan Padukuhan Kendalsari III Berbasis Pendidikan, Teknologi, dan Sosial
+                    Pemberdayaan Dusun III Kendalsari Berbasis Pendidikan, Teknologi, dan Sosial
                   </span>
                 </div>
               </div>
@@ -171,7 +171,7 @@ export default function ProfileDesaSection() {
               </div>
 
               <div className="mt-3 flex items-center justify-between text-[11px] text-stone-500 px-1">
-                <span>Radius Operasi KKN: RT 14 s/d RT 23 Padukuhan Kendalsari III</span>
+                <span>Radius Operasi KKN: RT 14 s/d RT 23 Dusun III Kendalsari</span>
                 <span className="font-semibold text-[#2B6833]">Kemalang, Klaten</span>
               </div>
             </div>
